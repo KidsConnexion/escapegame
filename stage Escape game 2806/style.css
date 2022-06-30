@@ -1,0 +1,61 @@
+*
+{
+    margin: 0 auto;
+}
+
+body
+{
+    background-color:white ; 
+    color: #1e1e1e;
+    font-family: 'VT323', monospace;
+}
+
+h1,h2,h3,h4
+{
+    font-family: 'Jockey One', sans-serif;
+}
+
+header 
+{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;   
+}
+
+div 
+{
+    text-align: center;
+    padding: 10px;
+}
+
+.Choix
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.Choix img
+{
+    width: 640px;
+    height: 360px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.Choix a
+{
+    padding: 10px;
+    border: 2px solid #898989;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px #6a6a6a; 
+}
+
+span
+{
+    color: pink;
+}
+
+main
+{
+    text-align: center;
+}
